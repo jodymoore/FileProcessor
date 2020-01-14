@@ -1,0 +1,42 @@
+.card-header {
+    text-align: center;
+    border-bottom: 2px solid silver;
+}
+
+.card {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid silver;
+    border-radius: 10px;
+}
+
+
+#card h4 {
+    text-align: center;
+}
+#cardRow {
+    text-align: center;
+}
+
+#buttonDiv {
+    text-align: center;
+    margin-bottom: 10px;
+}
+table th {
+    text-align: center;
+    font-size: larger;
+    padding: 3px;
+}
+
+table td {
+    text-align: center;
+    font-size: larger;
+    padding: 5px;
+}
+.form-horizontal .control-label {
+    padding-top: 0;
+}
+
+
+
