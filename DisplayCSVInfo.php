@@ -36,7 +36,8 @@ class DisplayCSVInfo
         $curConvert = new CurrencyConversion();
         $Functions = new Functions();
 
-
+//        echo "<h1 style=\"text-align: center\">CRIMSON AGILITY</h1>";
+        echo "<div id='logoDiv'><img id='logo' src='images/crimsonLogo.png'></div>";
         echo "<table border='1' style=\"width:100%\">
               <tr>
                 <th>SKU</th>
@@ -149,6 +150,8 @@ class DisplayCSVInfo
 
 
             echo "</table>";
-            echo "<a href='index.php'>Back</a>";
+            echo "<a href='index.php'>Back</a><br/>";
+
+
     }
 }
