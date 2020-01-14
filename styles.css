@@ -4,13 +4,13 @@
 }
 
 .card {
+    margin-top: 3%;
     width: 60%;
     margin-right: auto;
     margin-left: auto;
     border: 2px solid silver;
     border-radius: 10px;
 }
-
 
 #card h4 {
     text-align: center;
